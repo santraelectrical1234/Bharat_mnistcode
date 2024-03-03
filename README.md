@@ -1,2 +1,2 @@
 # Bharat_mnistcode
-### Handwritten digit recognition.
+## Handwritten digit recognition.
